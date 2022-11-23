@@ -18,7 +18,6 @@ function App() {
       amount = 8;
     }
     setParas(data.slice(0, amount));
-    console.log(paras);
   }
   
   return (
