@@ -7,7 +7,6 @@ const List = (props) => {
       <div className='grocery-list'>
         {
         props.items.map(item => {
-          console.log(item);
 
           const {id, title} = item;
 
