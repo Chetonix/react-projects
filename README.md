@@ -67,3 +67,16 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 22. Hacker News
 23. Quiz
 
+Links to the completed projects:
+
+https://birthday-reminders-react-chetonix.netlify.app/
+https://tours-project-chetonix.netlify.app/
+http://reviews-project-chetonix.netlify.app
+https://accordion-react-chetonix.netlify.app/
+https://menu-items-chetonix.netlify.app/
+https://tabs-project-chetonix.netlify.app/
+https://auto-reviews-slider-chetonix.netlify.app/
+https://dummy-text-generator-chetonix.netlify.app/
+https://color-genrator-chetonix.netlify.app/
+https://grocery-bud-chetonix.netlify.app/
+https://navbar-responsive-chetonix.netlify.app/
