@@ -13,6 +13,7 @@ https://dummy-text-generator-chetonix.netlify.app/
 https://color-genrator-chetonix.netlify.app/
 https://grocery-bud-chetonix.netlify.app/
 https://navbar-responsive-chetonix.netlify.app/
+https://modal-sidebar-react-chetonix.netlify.app/
 
 #### React Course
 
@@ -80,5 +81,3 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 21. Movie DB
 22. Hacker News
 23. Quiz
-
-
