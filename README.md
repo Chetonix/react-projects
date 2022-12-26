@@ -14,6 +14,7 @@ https://color-genrator-chetonix.netlify.app/
 https://grocery-bud-chetonix.netlify.app/
 https://navbar-responsive-chetonix.netlify.app/
 https://modal-sidebar-react-chetonix.netlify.app/
+https://cart-react-chetonix.netlify.app/
 
 #### React Course
 
